@@ -21,7 +21,7 @@ QueryXpertAI is an interactive document-based question-answering system. Leverag
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/queryexpertai.git
+   git clone https://github.com/yashn24/queryexpertai.git
    cd queryexpertai
    ```
 
