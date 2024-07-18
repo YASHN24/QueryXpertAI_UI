@@ -21,8 +21,7 @@ QueryXpertAI is an interactive document-based question-answering system. Leverag
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yashn24/queryexpertai.git
-   cd queryexpertai
+   git clone https://github.com/YASHN24/QueryXpertAI_UI.git
    ```
 
 2. **Install Dependencies**
@@ -59,11 +58,11 @@ QueryXpertAI is an interactive document-based question-answering system. Leverag
 
 1. **Upload a PDF**: Select and upload your PDF file.
 2. **Ask a Question**: Type in any question related to the document content.
-3. **Receive an Answer**: The system will process the query and return the relevant answer along with the content page of the context asked.
+3. **Receive an Answer**: The system will process the query and return the relevant answer along with the content of the page of the context asked.
 
 ### Contribution
 
-We welcome contributions! Please fork the repository and create a pull request with your changes. Make sure to follow the project's coding standards and include relevant tests.
+We welcome contributions! Please fork the repository and create a pull request with your changes.
 
 ### License
 
